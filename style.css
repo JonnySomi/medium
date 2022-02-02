@@ -1,3 +1,6 @@
 .banner {
   background-image: url(https://images8.alphacoders.com/108/1081458.jpg);
+  background-size: cover;
+  color: white;
+  padding: 120px;
 }
